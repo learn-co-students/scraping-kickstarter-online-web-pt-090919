@@ -10,7 +10,8 @@
 In this lab, you'll be scraping a Kickstarter web page that lists projects
 requesting funding. The page you'll be scraping displays 20 previews of projects
 in the NYC area. Each project has a title, an image, a short description, a
-location and some funding details. Our goal is to collect this information for
+locatio
+n and some funding details. Our goal is to collect this information for
 each project and build a hash for each project:
 
 ```ruby
